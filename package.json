@@ -1,0 +1,29 @@
+{
+  "name": "rest_it_all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.30"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/eslint-parser": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "prettier": "2.4.1"
+  },
+  "type": "module"
+}
